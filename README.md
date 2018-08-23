@@ -1,1 +1,1 @@
-# tf_samples
+# Machine Learning-related snippets
